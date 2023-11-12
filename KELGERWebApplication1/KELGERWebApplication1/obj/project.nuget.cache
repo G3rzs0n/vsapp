@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Nhad8OOBE51G0hZ6iLlCUN6WZjTVQ2AXbAZrE2mT4jo2d4vIWWNr+6Yf9Li4fW5mCjOLbxCSFgeEkgCJTUiSQg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kelem\\source\\repos\\vsapp\\KELGERWebApplication1\\KELGERWebApplication1\\KELGERWebApplication1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kelem\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.19.4\\microsoft.visualstudio.azure.containers.tools.targets.1.19.4.nupkg.sha512"
+  ],
+  "logs": []
+}
